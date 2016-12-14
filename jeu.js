@@ -4,17 +4,17 @@
 
 var height  		= screen.height;
 var px      		= screen.width / 2;
-var tops			= 10;
+var tops		= 10;
 var distanceBot		= 0;
 var directionBot	= 1;
 var timerToggle		= null;
-var game			= false;
+var game		= false;
 
 /* Quand on charge la fenêtre du jeu, on commence à fix les valeurs css du vaisseau (px) qu'on a défini en haut */
 window.onload  = function() {
-	game					= true;
+	game			= true;
     vaisseau.style.left   	= px + "px";
-	vaisseau.style.top		= "370px";
+	vaisseau.style.top	= "370px";
 	animateBot();
 }
 /* Quand on commence à taper sur le clavier, on va faire un switch pour chaque touche qu'on tape et on y ajoute une action. */
