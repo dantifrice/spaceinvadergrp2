@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg11302" sodipodi:docname="pacman.svg" inkscape:version="0.46" sodipodi:version="0.32" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="161.202px"
+	 height="138.911px" viewBox="-9.845 9.477 161.202 138.911" enable-background="new -9.845 9.477 161.202 138.911"
+	 xml:space="preserve">
+<filter  y="-0.22272503" id="filter12011" height="1.4454501" width="1.5203599" x="-0.26017994" inkscape:collect="always">
+	<feGaussianBlur  id="feGaussianBlur12013" inkscape:collect="always" stdDeviation="13.944724"></feGaussianBlur>
+</filter>
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective11310" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 526.18109 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="715" inkscape:window-width="641" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0" showgrid="false" inkscape:cy="-208.57143" inkscape:cx="115" inkscape:zoom="0.35" objecttolerance="10" guidetolerance="10" gridtolerance="10000" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-554.4977,-488.84004)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<g id="g3640" transform="translate(447.45041,-63.871806)">
+		
+			<g id="path11732" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="/home/martin/Documents/Dokumenter/Billeder/pakkupakkuman.png" sodipodi:cx="95.812973" sodipodi:cy="592.03564" sodipodi:rx="82.642662" sodipodi:ry="73.892662" sodipodi:start="0" sodipodi:end="4.712389" sodipodi:type="arc" filter="url(#filter12011)">
+			<path fill="#FFFB00" d="M236.204,564.853c28.399,29.307,24.852,78.813-7.926,110.577c-32.775,31.763-82.37,33.755-110.77,4.448
+				c-28.4-29.306-24.853-78.813,7.924-110.576l0,0l51.423,53.064L236.204,564.853z"/>
+			<path opacity="0.0629" fill="none" stroke="#FFFF00" stroke-width="2.5" stroke-linecap="round" d="M236.204,564.853
+				c28.399,29.307,24.852,78.813-7.926,110.577c-32.775,31.763-82.37,33.755-110.77,4.448c-28.4-29.306-24.853-78.813,7.924-110.576
+				l0,0l51.423,53.064L236.204,564.853z"/>
+		</g>
+		
+			<g id="g3620" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="/home/martin/Documents/Dokumenter/Billeder/pakkupakkuman.png">
+			
+				<g id="g3954" transform="matrix(5.2657186,0,0,5.2657186,-717.65025,-1999.3585)" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:export-filename="/home/martin/Documents/Dokumenter/Billeder/pakkupakkuman.png">
+				<g id="g3956">
+					
+						<path id="path3958" sodipodi:cx="163.96039" sodipodi:cy="641.16693" sodipodi:rx="27.210983" sodipodi:ry="27.210983" sodipodi:start="0" sodipodi:end="4.712389" sodipodi:type="arc" fill="#FFFF00" stroke="#000000" stroke-width="0.9279" d="
+						M180.401,487.818c5.635,5.815,5.49,15.098-0.325,20.733c-5.815,5.635-15.098,5.49-20.733-0.325
+						c-5.635-5.815-5.49-15.098,0.326-20.733l10.204,10.529L180.401,487.818z"/>
+					<g id="g3960">
+						
+							<path id="path3962" sodipodi:cx="171.5" sodipodi:cy="490.61218" sodipodi:rx="4.125" sodipodi:ry="4.125" sodipodi:type="arc" fill="#FFFFFF" stroke="#000000" stroke-width="0.6034" stroke-linecap="round" d="
+							M161.116,494.65c1.887,0.03,3.393,1.584,3.364,3.471c-0.03,1.888-1.584,3.393-3.471,3.364l0,0
+							c-1.887-0.029-3.393-1.584-3.364-3.471C157.674,496.127,159.228,494.621,161.116,494.65L161.116,494.65z"/>
+						
+							<path id="path3964" sodipodi:cx="173.24117" sodipodi:cy="492.15683" sodipodi:rx="1.2374369" sodipodi:ry="1.2374369" sodipodi:type="arc" d="
+							M161.06,494.83c0.683,0.011,1.229,0.574,1.218,1.257c-0.011,0.683-0.573,1.229-1.257,1.218
+							c-0.683-0.011-1.228-0.573-1.218-1.257C159.814,495.364,160.377,494.819,161.06,494.83L161.06,494.83z"/>
+					</g>
+				</g>
+			</g>
+			<path id="path2649" sodipodi:nodetypes="csssz" fill="#FFFFFF" fill-opacity="0.5886" d="M114.575,647.907
+				c2.05,8.15,13.633,27.308,37.581,36.934c18.493,7.434,41.219,2.738,45.303-0.98c5.957-5.419-14.359-13.652-35.007-20.479
+				C143.65,657.166,112.505,639.674,114.575,647.907z"/>
+		</g>
+	</g>
+</g>
+</svg>
